@@ -1,0 +1,7 @@
+_netblocks.google.com
+_netblocks2.google.com
+_netblocks3.google.com
+_spf.facebook.com
+twitter.com
+spf1.mailgun.org
+spf2.mailgun.org
